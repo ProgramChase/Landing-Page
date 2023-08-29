@@ -6,4 +6,6 @@ The website will contain 4 main sections + a footer.
 
 Work on HTML first and then do CSS. Utilize the flexbox exercises. Search things on google if I need clarification.
 
+08/29/23 - Added some html. Will revise it; not set in stone. So, four main sections... Header, body (detail 1 + detail 2), footer... I think I am going to do the header first... HTML + CSS. 
+
 Live site: ProgramChase.github.io/Landing-Page
