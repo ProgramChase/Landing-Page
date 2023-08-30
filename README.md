@@ -8,4 +8,6 @@ Work on HTML first and then do CSS. Utilize the flexbox exercises. Search things
 
 08/29/23 - Added some html. Will revise it; not set in stone. So, four main sections... Header, body (detail 1 + detail 2), footer... I think I am going to do the header first... HTML + CSS. 
 
+08/30/23 - Uncommented some of the code on the HTML file. Added styling in the CSS file. Will have to revise when necessary. I've been trying to reduce my redundancy with my code. I'm pretty sure somewhere in the cascade sheet, I probably have repetition. 
+
 Live site: ProgramChase.github.io/Landing-Page
