@@ -10,4 +10,6 @@ Work on HTML first and then do CSS. Utilize the flexbox exercises. Search things
 
 08/30/23 - Uncommented some of the code on the HTML file. Added styling in the CSS file. Will have to revise when necessary. I've been trying to reduce my redundancy with my code. I'm pretty sure somewhere in the cascade sheet, I probably have repetition. 
 
+09/01/23 - Working on container three; where there is a huge quote. Still unsure about what the flex-wrap does.
+
 Live site: ProgramChase.github.io/Landing-Page
